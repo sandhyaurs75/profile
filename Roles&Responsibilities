@@ -1,0 +1,47 @@
+Project#1:
+
+·	Project Title: MVP(Minimum Viable Project)
+·	Client : Tivo(https://www.tivo.com/)
+·	Role   : Developer
+. Project Description: This project is related to scraping/crawling. Collecting data for Tivo's smart search, TV setup. The main theme behind this project is to crawl the metadata for tvshows/movies/episodes and deliver the same data to the client in an order/format.
+
+Key Responsibilities handled:
+
+. Uses Linux platform and python as technology. Worked on 100+ sites that contains entertainment sites/articles sites. I have been done below activities.	
+·	Scraping the data from the official websites across 1000+ European/Indian/Latam countries using SCRAPY framework.
+. Used various other modules to scrape data as well like Urllib, wget, curl.
+·	Written sanity scripts to check/validate the DB data.	
+·	Writing Xpaths. Solving parser errors while crawling data. 
+·	Fixing Unicode issues while handling non-Latin languages data. 
+·	Creating MySQL Databases and tables. Loading data into tables.  
+·	Writing automated scripts to check the life/status of written crawler. 
+. Main responsibility is to maintain proper metadata information is providing to the end users or not.
+
+
+Project#2:
+
+·	Project Title: MVP(Minimum Viable Project)
+·	Client : Tivo(https://www.tivo.com/)
+·	Role   : Testing Engineer
+. Project Description: This project is related to scraping/crawling. Collecting data for Tivo's smart search, TV setup. The main theme behind this project is to crawl the metadata for tvshows/movies/episodes and deliver the same data to the client in an order/format.
+
+Key Responsibilities handled:
+
+. Used MySql/Sql for validating the data.
+. After all the data crawled and  populating into a database, used to validate the database using MySql/Sql Queries.
+. Used to validate the DB's, whether we got all the data into DB compared to websites and if we got data, used to check whether we got in a correct and required format.
+. Written few sanity scripts in Python, which finds basic issues in DB.
+. Main responsibility is to maintain proper metadata information is providing to the end users or not.
+
+
+Project#3: 
+·	Project Title:  Social Media Analytics Simplification - Buzzinga - COMPANY's OWN PRODUCT - http://www.buzzinga.com/
+·	Client : TCS, Aricent, Langoor
+·	Role : Developer
+Project Description: Aim of the project is to harnesses the power of social media to enable strategic decision making through actionable insights. This project listens into all mainstream social media source such as Twitter, Facebook public, Google+, YouTube, Instagram and Flickr and also maintains a massive listening index of millions News Blogs and Forum source enable listening on a near real time level. Monitoring platform aggregates content from all the languages across globe and enables keyword and Boolean string based search. This project also allows you to track Facebook pages or twitter handles from your own specific listening index.
+
+Key Responsibilities handled:
+·	Monitoring organized social media listening into country and industry specific verticals.
+·	Analyzing comprehensive, customizable social analytics dashboards.
+·	Reporting intuitive, insightful on demand reports.
+·	Writing python crawlers, scripts to collect the data from variour articles related websites.
